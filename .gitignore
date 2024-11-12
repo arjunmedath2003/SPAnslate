@@ -1,0 +1,8 @@
+*.pdf
+model.py
+test*.py
+try.py
+working.py
+templates
+editfiles
+__pycache__
